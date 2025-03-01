@@ -1,0 +1,11 @@
+theme = tokyonight_night
+
+font-family = 0xProto Nerd Font
+font-size = 14
+
+window-padding-x = 10,10
+
+background-blur-radius = 50
+background-opacity = 0.8
+
+gtk-titlebar = true
